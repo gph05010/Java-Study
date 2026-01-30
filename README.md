@@ -6,7 +6,7 @@
 
 ### 1️⃣ [배열 (Array) 기초](./Array)
 - **내용:** 배열의 선언, 생성, 인덱스 활용 학습
-- **상세 설명:** [01_Array 폴더 안의 README 보러가기](./Array/README.md)
+- **상세 설명:** [Array 폴더 안의 README 보러가기](./Array/README.md)
 
 ### 2️⃣ [햄버거 키오스크 (Burger Kiosk)](./burger_kiosk)
 - **내용:** ArrayList와 HashMap을 활용한 주문 시스템
