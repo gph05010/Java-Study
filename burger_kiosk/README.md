@@ -25,4 +25,4 @@
 - 결론: 자료구조(HashMap)를 왜 써야 하는지 뼈저리게 느낌.
 
 ## 🔗 관련 포스팅
-- [블로그 링크](🚧 포스팅 작성 중입니다...)
+- (https://velog.io/@gph05010/ArrayList%EB%A1%9C-2%EC%8B%9C%EA%B0%84-%EC%82%BD%EC%A7%88%ED%95%9C-%EC%BD%94%EB%93%9C-HashMap%EC%9C%BC%EB%A1%9C-1%EB%B6%84-%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0)
